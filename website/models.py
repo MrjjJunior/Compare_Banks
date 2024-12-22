@@ -9,7 +9,7 @@ class User(db.Model):
     password = db.Column(db.String(150))
     firstName = db.Column(db.String(150))
 
-class Bank(db.Model):
+class Banks(db.Model):
     __tablename__ = 'banks'
 
     id = db.Column(db.Integer, primary_key=True)
