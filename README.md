@@ -27,9 +27,38 @@ This is the image of the landing page of compare banks
    npm run dev
    ```
 
+## Usage
 
+- Start applicaiton:
+```bash
+npm run dev
+```
+- Search on your browser ```http://localhost:5173/```.
+- You than be on the landing page of the web application click on "get started" or "compare" on the navbar to start comparing bank packages.
 
-# BACKEND CHALLENGS
+## Features
+- You can filter the bank packages by package type which are Saving or Cheque.
+- Click on "Take me to {Bank}" and it will take you to that specific bank site to create your bank account.
+
+## Collaboraters
+
+- Front-end developer
+https://github.com/jayudoye
+- Database Admin
+https://github.com/mumugisha
+- Front-end lead
+https://github.com/otienojoseph
+- Back-end Developer
+https://github.com/MrjjJunior
+
+## Acknowledgments
+- [React](https://react.dev/) for the front-end framework
+- [Flask](https://flask.palletsprojects.com/) for the backend-end framework
+
+## Contact
+Tshepiso Tlhong(tlhongtshepiso2@gmail.com) feel free to reach out!
+
+# CHALLENGeS
 
 1. Data collection was a major chhalenge in this project
     because it required collecting data from multiple sources.
@@ -41,6 +70,7 @@ This is the image of the landing page of compare banks
     I thought of web scraping and another challenge arose which is that the bank didn't share the 
     package information on the website but they provide the information on a PDF.
 3. I create a PDF scraper to scrape the information from the PDF file.
+
 4. Another challenge I faced was that the PDF file was not in a standard format.
     It was not consistent through out all the banks
 
