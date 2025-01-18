@@ -2,6 +2,10 @@
 
 Compare Banks is a web application that allows user to compare different banks and thier packages to make informed decisions when selecting a bank.
 
+This is the image of the landing page of compare banks
+![image](https://github.com/user-attachments/assets/9d34b114-9b24-44f7-97d0-bd575ca010f4)
+
+
 # BACKEND CHALLENGS
 
 1. Data collection was a major chhalenge in this project
