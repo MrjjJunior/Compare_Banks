@@ -10,6 +10,23 @@ This is the image of the landing page of compare banks
    ```bash
    git clone https://github.com/MrjjJunior/Compare_Banks.git
    ```
+2. Run the venv
+   ```bash
+   source venv/bin/activate
+   ```
+3. install pip requirements
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. install dependencies
+   ```bash
+   npm install
+   ```
+5. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
 
 
 # BACKEND CHALLENGS
