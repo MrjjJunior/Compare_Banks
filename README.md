@@ -5,6 +5,12 @@ Compare Banks is a web application that allows user to compare different banks a
 This is the image of the landing page of compare banks
 ![image](https://github.com/user-attachments/assets/9d34b114-9b24-44f7-97d0-bd575ca010f4)
 
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MrjjJunior/Compare_Banks.git
+   ```
+
 
 # BACKEND CHALLENGS
 
