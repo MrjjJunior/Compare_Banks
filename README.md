@@ -58,7 +58,7 @@ https://github.com/MrjjJunior
 ## Contact
 Tshepiso Tlhong(tlhongtshepiso2@gmail.com) feel free to reach out!
 
-# CHALLENGeS
+# CHALLENGES
 
 1. Data collection was a major chhalenge in this project
     because it required collecting data from multiple sources.
