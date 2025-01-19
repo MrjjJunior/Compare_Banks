@@ -75,10 +75,9 @@ Tshepiso Tlhong(tlhongtshepiso2@gmail.com) feel free to reach out!
 3. We created a PDF scraper to scrape the information from the PDF file.
 
 4. Another challenge we faced, was that the PDF file was not in a standard format.
-    It was not consistent through out all the banks
+    It was not consistent throughout all the banks.
 
-5. After the Data collection, it needed to be put in a database and it was a challenge because the data was not in a standard format and it was not easy to put it in a database. Knowing how to structure the tables and columns was a challenge .
+5. After the Data collection, it needed to be put in a database and it was a challenge because the data was not in a standard format and it was not easy to put it in a database. Knowing how to structure the tables and columns was a challenge.
 
-6. The interaction between the database and the API was a challenge because of how the information
-    was stored.
+6. The interaction between the database and the API was a challenge because of the format the information was stored.
     There were multiple tables, so we had to join them together to get the information needed.
